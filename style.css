@@ -2,14 +2,14 @@
    TOKENS
 ===================== */
 :root {
-  --color-bg: #0f172a;
-  --color-text: #e2e8f0;
-  --color-muted: #94a3b8;
-  --color-accent: #2563eb;
-  --color-accent-hover: #1d4ed8;
-  --color-border: #1e293b;
-  --color-tag-bg: #1e293b;
-  --color-tag-text: #94a3b8;
+  --color-bg: #2e2c28;
+  --color-text: #e8e4dc;
+  --color-muted: #a89f90;
+  --color-accent: #c4b89a;
+  --color-accent-hover: #d4c8aa;
+  --color-border: #3d3a35;
+  --color-tag-bg: #3d3a35;
+  --color-tag-text: #c4b89a;
   --font-display: 'DM Serif Display', Georgia, serif;
   --font-body: 'Inter', system-ui, sans-serif;
   --nav-height: 56px;
