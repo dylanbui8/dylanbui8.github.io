@@ -390,3 +390,18 @@ footer {
 
   .gallery-item.wide { grid-column: span 1; }
 }
+/* =====================
+   PHONE
+===================== */
+.profile-phone {
+  margin-top: -0.25rem;
+  font-size: 0.85rem;
+}
+
+.profile-phone a {
+  color: var(--color-muted);
+}
+
+.profile-phone a:hover {
+  color: var(--color-accent);
+}
